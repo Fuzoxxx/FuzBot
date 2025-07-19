@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "clientId": "",
+  "supportGuildId": "",
+  "supportCategoryId": "",
+  "supportTeamRoleId": "",
+  "clientSecret": "",
+  "callbackURL": "",
+  "supportChannelId": "",
+  "botInvitePermissions": ""
+}

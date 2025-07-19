@@ -1,0 +1,11 @@
+{
+  "token": "MTMzMzU1Mjk1ODk5ODA1Mjk4Nw.GweaKR.TesuTM61DSN65JizoWMepMTr2A-tvaSBeRI6kg",
+  "clientId": "1333552958998052987",
+  "supportGuildId": "1314719897112150058",
+  "supportCategoryId": "1393504288168480858",
+  "supportTeamRoleId": "1392829171495075932",
+  "clientSecret": "J_dxRh7K2Es4yr6Rr24YoNOvJENuwFkZ",
+  "callbackURL": "http://localhost:3000/callback",
+  "supportChannelId": "1394239931316179045",
+  "botInvitePermissions": "8"
+}
